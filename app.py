@@ -9,4 +9,4 @@ def index():
  
 if __name__ == '__main__': 
     # Run the Flask applica on in debug mode for development 
-    app.run(debug=True
+    app.run(debug=True)
